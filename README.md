@@ -1,3 +1,12 @@
+## Predator
+
+--------------------------------------------------------
+| FEEDS |  VPN CONNECT     | WEB-RTC  |
+|:-----|:--------:|------:|
+| **DATA**   | **WEB3** | **COMMUNICATION** |
+| github   |  WEB3  |   TURN server |
+| llogin   | _Network & internet_ | _API_ |
+
 # DuckDuckGo Browser Extensions
 
 [![Build Status](https://github.com/duckduckgo/duckduckgo-privacy-extension/actions/workflows/build.yml/badge.svg)](https://github.com/duckduckgo/duckduckgo-privacy-extension/actions/workflows/build.yml)
